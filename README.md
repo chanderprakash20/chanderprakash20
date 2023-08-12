@@ -5,8 +5,9 @@
 - 📫 How to reach me : connect with me at my gmail id chanderprakashs760@gmail.com.
 - linkedein:https://www.linkedin.com/in/chanderprakash-sharma-4ba136272/overlay/contact-info/
 - phone number:9050892387
-
-<!---
+- TWITTER OR x link:
+Twitter Link :
+<!---https://twitter.com/chander57737145
 chanderprakash20/chanderprakash20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
