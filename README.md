@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanderprakash20.
+- 👋 Hi, I’m @chanderprakash sharma.
 - 👀 I’m interested in full stack and Block chain technology have deep passion for technology in various field.
 - 🌱 I’m currently learning ICP(internet computer protocol and polkadot ) making some exciting project .
 - 💞️ I’m looking to collaborate on for contribution in web3 space having web2 involved like full stack basis of fundamnetal core skill like java , solidity, motoko, DSA and rust,MERN skills like HTML, CSS, Java Script, NODEjs, Express js, React js.
