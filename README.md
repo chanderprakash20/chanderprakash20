@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on for contribution in web3 space having web2 involved like full stack basis of fundamnetal core skill like java , solidity, motoko, DSA and rust,MERN skills like HTML, CSS, Java Script, NODEjs, Express js, React js.
 - 📫 How to reach me : connect with me at my gmail id chanderprakashs760@gmail.com.
 - linkedein:https://www.linkedin.com/in/chanderprakash-sharma-4ba136272/overlay/contact-info/
-- phone number:9050892387
+
 - TWITTER OR x link:
 Twitter Link :--https://twitter.com/chander57737145
 <!-
